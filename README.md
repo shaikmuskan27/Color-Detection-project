@@ -1,12 +1,12 @@
-## 📌 Color Detection using OpenCV (Python)
-# 📖 Overview
+# 📌 Color Detection using OpenCV (Python)
+## 📖 Overview
 
 This project is a Color Detection application built using Python and OpenCV.
 It detects and identifies colors in an image by clicking on any point, then displays the color name along with its RGB values.
 
 The project is useful for understanding image processing, computer vision basics, and color space manipulation.
 
-# 🚀 Features
+## 🚀 Features
 
 Detects colors from images using mouse click
 
@@ -16,14 +16,14 @@ Uses OpenCV for image processing
 
 Simple and beginner-friendly implementation
 
-# 📂 Project Structure
+## 📂 Project Structure
 Color-Detection/
 │── color_detection.py
 │── colors.csv
 │── image.jpg
 │── README.md
 
-# ▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 Clone this repository
 
@@ -47,7 +47,7 @@ python color_detection.py
 
 Click on any area of the image to detect the color.
 
-# 📸 Sample Output
+## 📸 Sample Output
 
 When you click on an image, the detected color name and RGB values are displayed on the screen.
 
@@ -61,7 +61,7 @@ Beginner OpenCV projects
 
 Academic mini-projects
 
-# 🙌 Credits
+## 🙌 Credits
 
 Original project inspiration and base implementation by Bansodeprasad
 
